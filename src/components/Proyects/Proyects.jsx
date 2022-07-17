@@ -62,7 +62,7 @@ function Proyects() {
                 style={{ height: 700, width: 1200, borderRadius: 20 }}
                 className="img-carrousel"
               />
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-md-block">
                 <a
                   className="a-carrousel"
                   href="https://github.com/tomasld13/TP-Programacion-JAVA"
@@ -88,7 +88,7 @@ function Proyects() {
                 style={{ height: 700, width: 1200, borderRadius: 20 }}
                 className="img-carrousel"
               />
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-md-block">
                 <a
                   className="a-carrousel"
                   href="https://vg-henry.vercel.app/"
@@ -113,7 +113,7 @@ function Proyects() {
                 style={{ height: 700, width: 1200, borderRadius: 20 }}
                 className="img-carrousel"
               />
-              <div class="carousel-caption d-none d-md-block">
+              <div class="carousel-caption d-md-block">
                 <a
                   className="a-carrousel"
                   href="https://psico-app.vercel.app/"
