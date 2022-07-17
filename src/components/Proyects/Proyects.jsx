@@ -1,5 +1,4 @@
 import React from "react";
-import git from "../props/github-icon-b.png";
 import psicoApp from "../props/psicoApp.png";
 import spa from "../props/spa.png";
 import viking from "../props/viking.png";

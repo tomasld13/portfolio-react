@@ -3,9 +3,7 @@ import "./Contact.css";
 import { AiOutlineLinkedin } from "react-icons/ai";
 import { AiOutlineWhatsApp } from "react-icons/ai";
 import { AiOutlineGithub } from "react-icons/ai";
-import { BiUpArrow } from "react-icons/bi";
-import { Link } from 'react-router-dom';
-
+import swal from 'sweetalert';
 function Contact() {
   async function handleSubmit(event){
     event.preventDefault()
@@ -21,7 +19,11 @@ function Contact() {
     .catch(error => console.log(error))
     if (response.ok){
         event.target.reset()
-        alert("¡Tú mensaje ha sido enviado correctamente! ;)")
+        swal(
+          "Mensaje enviado con éxito!",
+          'Pronto te estaré respondiendo :)',
+          'success'
+      );
     }
   }
   return (
