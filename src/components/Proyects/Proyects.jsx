@@ -101,6 +101,7 @@ function Proyects() {
                 </a>
                 <p className="text-carousel">
                   Simple Page Aplication realizada haciendo uso una API (Rawg).
+                  <br/>
                   JS+REACT+REDUX+NODE.JS+SEQUELIZE+POSTGRESQL
                 </p>
               </div>
@@ -128,7 +129,8 @@ function Proyects() {
                   Realizado en conjunto con 5 compañeros este proyecto es una
                   aplicación web con el objetivo de poder conectar a pacientes
                   con profesionales psicologos.
-                  JS+REACT+REDUX+CHACKRA+TAILWIND+FIREBASE+NODE.JS+SEQUELIZE+SOCKET.IO+API-MERCADOPAGO+POSTGRESQL
+                  <br/>
+                  JS REACT REDUX CHACKRA TAILWIND FIREBASE NODE.JS SEQUELIZE SOCKET.IO API-MERCADOPAGO POSTGRESQL
                 </p>
               </div>
             </div>

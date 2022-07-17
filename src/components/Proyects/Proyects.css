@@ -21,6 +21,7 @@
     background-color: rgba(44, 85, 71, 0.8);
     border-radius:20px;
     padding: 3px;
+    word-wrap: break-word;
 }
 
 @media (max-width: 1200px){
