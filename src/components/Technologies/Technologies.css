@@ -1,0 +1,24 @@
+.div-tech{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    min-width: 100%;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#conocimientos{
+    margin-bottom: 30px;
+}
+
+#conocimientos_title{
+    font-size: 2.5em;
+    color: #646464;
+    font-weight: bold;
+    margin-top: 0;
+    text-decoration: underline 5px #2c5547;
+    margin-bottom: 50px;
+}

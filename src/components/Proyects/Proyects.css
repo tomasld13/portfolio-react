@@ -1,0 +1,35 @@
+.a-carrousel{
+    text-decoration: none;
+    color: white
+}
+
+#proyectos{
+    margin-bottom: 50px;
+}
+
+#title-proyects{
+    font-size: 2.5em;
+    color: #646464;
+    font-weight: bold;
+    margin-top: 0;
+    text-decoration: underline 5px #2c5547;
+    margin-bottom: 20px;
+}
+
+
+.text-carousel{
+    background-color: rgba(44, 85, 71, 0.8);
+    border-radius:20px;
+    padding: 3px;
+}
+
+@media (max-width: 1200px){
+    .img-carrousel{
+        height: 60vh !important;
+        width: 100vw !important;
+    }
+    #carouselExampleCaptions{
+        height: 60vh !important;
+        width: 100vw !important;
+    }
+}
