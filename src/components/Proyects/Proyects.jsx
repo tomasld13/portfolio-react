@@ -58,7 +58,7 @@ function Proyects() {
                 src={viking}
                 class="d-block"
                 alt="..."
-                style={{ height: 700, width: 1200, borderRadius: 20 }}
+                style={{ height: 700, width: 1200}}
                 className="img-carrousel"
               />
               <div>
@@ -103,7 +103,7 @@ function Proyects() {
                   src={spa}
                   class="d-block"
                   alt="..."
-                  style={{ height: 700, width: 1200, borderRadius: 20 }}
+                  style={{ height: 700, width: 1200}}
                   className="img-carrousel"
                 />
                 <div>
@@ -139,7 +139,7 @@ function Proyects() {
               <p className="text-carousel-externo">
                 Simple Page Aplication realizada haciendo uso una API (Rawg).
                 <br />
-                JS REACT REDUX NODE.JS SEQUELIZE POSTGRESQL
+                JavaScript REACT REDUX NODE.JS SEQUELIZE POSTGRESQL
               </p>
             </div>
             
@@ -148,7 +148,7 @@ function Proyects() {
                   src={psicoApp}
                   class="d-block"
                   alt="..."
-                  style={{ height: 700, width: 1200, borderRadius: 20 }}
+                  style={{ height: 700, width: 1200}}
                   className="img-carrousel"
                 />
                 <div>
@@ -168,7 +168,7 @@ function Proyects() {
                     aplicación web con el objetivo de poder conectar a pacientes
                     con profesionales psicologos.
                     <br />
-                    JS REACT REDUX CHACKRA TAILWIND FIREBASE NODE.JS SEQUELIZE
+                    JavaScript REACT REDUX CHACKRA TAILWIND FIREBASE NODE.JS SEQUELIZE
                     SOCKET.IO API_MERCADOPAGO POSTGRESQL
                   </p>
                 </div>
@@ -188,7 +188,7 @@ function Proyects() {
                 aplicación web con el objetivo de poder conectar a pacientes con
                 profesionales psicologos.
                 <br />
-                JS REACT REDUX CHACKRA TAILWIND FIREBASE NODE.JS SEQUELIZE
+                JavaScript REACT REDUX CHAKRA TAILWIND FIREBASE NODE.JS SEQUELIZE
                 SOCKET.IO API_MERCADOPAGO POSTGRESQL
               </p>
             </div>

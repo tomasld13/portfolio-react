@@ -3,11 +3,13 @@
     color: white
 }
 
+
 .a-carrousel-externo{
     text-decoration: none;
     color: white;
     display: none;
 }
+
 
 #proyectos{
     margin-bottom: 50px;
@@ -28,15 +30,17 @@
     border-radius:20px;
     padding: 3px;
     word-wrap: break-word;
+    font-weight: bold;
 }
 
 .text-carousel-externo{
-    background-color: rgba(44, 85, 71, 0.8);
-    border-radius:20px;
+    background-color: #2c5547;
     padding: 3px;
+    margin:0;
     word-wrap: break-word;
     display: none;
     color:white;
+    font-weight: bold;
 }
 
 @media (max-width: 1200px){
