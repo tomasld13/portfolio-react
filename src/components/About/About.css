@@ -80,10 +80,6 @@
     }
 }
 
-@media (max-width: 1542px){
-
-}
-
 @media (max-width: 1306px){
     .cards-css{
         flex-direction: column;
