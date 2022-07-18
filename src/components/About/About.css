@@ -34,14 +34,7 @@
     height: 100%;
 }
 
-#henry{
-    width: 1500px;
-}
 
-#ungs{
-    width: 1500px;
-    height: 116.5%;
-}
 
 .container-about{
     margin: 10%;
@@ -89,18 +82,14 @@
 }
 
 @media (max-width: 1542px){
-    #ungs{
-        height: 100%;
-    }
+
 }
 
 @media (max-width: 1306px){
     .cards-css{
         flex-direction: column;
     }
-    #ungs{
-        height: 100%;
-    }
+
 }
 
 @media (max-width: 410px){

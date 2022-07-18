@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import ungs from "../props/ungs.jpg";
-import henry from "../props/henry.jpg";
+import henry from "../props/henryR.jpg";
 
 function About() {
   return (
@@ -38,23 +38,22 @@ function About() {
             "text-align": "left",
           }}
         >
-          Soy de Argentina, provincia de Buenos Aires. Hace dos años conocí la
-          programación y me quedé fascinado con esta. Empecé cursando la
-          Tecnicatura Universitaria en Informatica, aprendiendo en esta Python y
-          Java. Pero luego de un tiempo comence a sentir que estaba aprendiendo
-          muy lento por lo que fui haciendo algunos cursos en internet, hasta
-          que me encontré con Henry. Como vi que era algo intensivo en lo que
-          iba a aprender muchas cosas de una manera intensiva me decidí a
-          cursarlo.
+          Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la
+          programación y me quedé fascinado con esta y por esto comencé cursando la
+          Tecnicatura Universitaria en Informática, aprendiendo en esta Python y
+          Java. Al mismo tiempo fuí realizando algunos cursos en internet, hasta
+          que me encontré con Henry, el cual ofrecia el aprendizaje de un stack solido
+          de tecnologias para el desarrollo web, de una manera intensiva, por lo que este
+          iba a agilizar mi incersion en el sector laboral.
           <br />
           Hoy en día, ya con el bootcamp finalizado y la carrera en proceso,
           estoy en busca de mi primera experiencia laboral en el sector IT. Con
-          mucho entusiasmo, ganas de poner en practica mis conocimientos y de
+          mucho entusiasmo, ganas de poner en práctica mis conocimientos, de
           seguir aprendiendo y creciendo profesionalmente.
           <br />
           Cuento con conocimientos Full Stack en el desarrollo web, me manejo
           tanto en la parte del FrontEnd como del BackEnd, aunque tengo
-          preferencia en esta ultima area, me gusta mucho trabajar desde el lado
+          preferencia en esta última área, me gusta mucho trabajar desde el lado
           del servidor y las bases de datos.
         </div>
       </div>
@@ -62,12 +61,11 @@ function About() {
       <h2>Estudios</h2>
       <div className="cards-css">
         <div class="card mb-3" className="card-css">
-          <div class="row g-0">
+          <div class="row g-0 h-100">
             <div class="col-md-4">
               <img
                 src={ungs}
-                id="ungs"
-                class="img-fluid rounded-start"
+                class="img-fluid"
                 alt="..."
               />
             </div>
@@ -75,7 +73,7 @@ function About() {
               class="col-md-8"
               style={{
                 color: "white",
-                "text-align": "left",
+                "text-align": "left"
               }}
             >
               <div class="card-body">
@@ -84,7 +82,7 @@ function About() {
                 </h5>
                 <p class="card-text">
                   Soy estudiante avanzado de la Tecnicatura Universitaria en
-                  Informática, y simultaneamente curso la Licenciatura en
+                  Informática y simultaneamente curso la Licenciatura en
                   Sistemas. En estas carreras aprendí a programar en languajes
                   como Python y Java, orientado a objetos.
                 </p>
@@ -93,12 +91,11 @@ function About() {
           </div>
         </div>
         <div class="card mb-3" className="card-css">
-          <div class="row g-0">
+          <div class="row g-0 h-100">
             <div class="col-md-4">
               <img
                 src={henry}
-                id="henry"
-                class="img-fluid rounded-start"
+                class="img-fluid"
                 alt="..."
               />
             </div>
@@ -107,16 +104,14 @@ function About() {
                 class="card-body"
                 style={{
                   color: "white",
-                  "text-align": "left",
+                  "text-align": "left"
                 }}
               >
                 <h5 class="card-title">Henry Bootcamp Full Stack Developer</h5>
                 <p class="card-text">
                   Henry es una academia digital la cual brinda distintos
                   bootcamps. En este caso realicé el bootcamp de Desarrollo Full
-                  Stack, en el que vi tanto el front, con tecnologias como:
-                  HTML, CSS, React y Redux, como el back, con tecnologias como:
-                  Node.JS, Express, Sequelize, SQL, PostgreSQL.
+                  Stack, en el que ví tanto el Frontend como el Backend. 
                 </p>
               </div>
             </div>
