@@ -158,8 +158,32 @@
 }
 
 
-@media (max-height: 690px){
+@media (max-height: 790px){
     .home h1{
         margin-top: 170px !important;
+    }
+    @keyframes mov-home {
+        to {
+          transform: translateY(100%) translateX(0);
+          opacity: 1;
+        }
+    }
+}
+
+@media (max-height: 726px){
+    @keyframes mov-home {
+        to {
+          transform: translateY(110%) translateX(0);
+          opacity: 1;
+        }
+    }
+}
+
+@media (max-height: 680px){
+    @keyframes mov-home {
+        to {
+          transform: translateY(120%) translateX(0);
+          opacity: 1;
+        }
     }
 }
