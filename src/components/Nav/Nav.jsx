@@ -93,7 +93,7 @@ function Nav() {
               <a
                 class="nav-link"
                 aria-current="page"
-                href="https://www.canva.com/design/DAEJ-KxmOi8/AolMBWQMQ_BLEaaL40yz0A/edit"
+                href="https://docs.google.com/document/d/1PucSx5IpRroCn7kQrSElutPweylEA8yFapAgCo6rq0I/edit?usp=sharing"
                 target="_blank" 
                 rel='noopener noreferrer'
                 style={{ fontWeight: "bold" }}
