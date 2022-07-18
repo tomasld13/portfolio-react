@@ -39,12 +39,13 @@ function About() {
           }}
         >
           Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la
-          programación y me quedé fascinado con esta y por esto comencé cursando la
-          Tecnicatura Universitaria en Informática, aprendiendo en esta Python y
-          Java. Al mismo tiempo fuí realizando algunos cursos en internet, hasta
-          que me encontré con Henry, el cual ofrecia el aprendizaje de un stack solido
-          de tecnologias para el desarrollo web, de una manera intensiva, por lo que este
-          iba a agilizar mi incersion en el sector laboral.
+          programación y me quedé fascinado con esta y por esto comencé cursando
+          la Tecnicatura Universitaria en Informática, aprendiendo en esta
+          Python y Java. Al mismo tiempo fui realizando algunos cursos en
+          internet, hasta que me encontré con Henry, el cual ofrecía el
+          aprendizaje de un stack solido de tecnologías para el desarrollo web,
+          de una manera intensiva, por lo que este iba a agilizar mi inserción
+          en el sector laboral.
           <br />
           Hoy en día, ya con el bootcamp finalizado y la carrera en proceso,
           estoy en busca de mi primera experiencia laboral en el sector IT. Con
@@ -63,17 +64,13 @@ function About() {
         <div class="card mb-3" className="card-css">
           <div class="row g-0 h-100">
             <div class="col-md-4">
-              <img
-                src={ungs}
-                class="img-fluid"
-                alt="..."
-              />
+              <img src={ungs} class="img-fluid" alt="..." />
             </div>
             <div
               class="col-md-8"
               style={{
                 color: "white",
-                "text-align": "left"
+                "text-align": "left",
               }}
             >
               <div class="card-body">
@@ -93,25 +90,21 @@ function About() {
         <div class="card mb-3" className="card-css">
           <div class="row g-0 h-100">
             <div class="col-md-4">
-              <img
-                src={henry}
-                class="img-fluid"
-                alt="..."
-              />
+              <img src={henry} class="img-fluid" alt="..." />
             </div>
             <div class="col-md-8">
               <div
                 class="card-body"
                 style={{
                   color: "white",
-                  "text-align": "left"
+                  "text-align": "left",
                 }}
               >
                 <h5 class="card-title">Henry Bootcamp Full Stack Developer</h5>
                 <p class="card-text">
                   Henry es una academia digital la cual brinda distintos
                   bootcamps. En este caso realicé el bootcamp de Desarrollo Full
-                  Stack, en el que ví tanto el Frontend como el Backend. 
+                  Stack, en el que ví tanto el Frontend como el Backend.
                 </p>
               </div>
             </div>
