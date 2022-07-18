@@ -46,7 +46,7 @@ function Nav() {
                 href="#sobreMi"
                 style={{ fontWeight: "bold" }}
               >
-                Sobre Mi
+                Sobre Mí
               </a>
             </li>
             <li class="nav-item">
@@ -63,20 +63,20 @@ function Nav() {
               <a
                 class="nav-link"
                 aria-current="page"
-                href="#proyectos"
+                href="#conocimientos"
                 style={{ fontWeight: "bold" }}
               >
-                Proyectos
+                Conocimientos
               </a>
             </li>
             <li class="nav-item">
               <a
                 class="nav-link"
                 aria-current="page"
-                href="#conocimientos"
+                href="#proyectos"
                 style={{ fontWeight: "bold" }}
               >
-                Conocimientos
+                Proyectos
               </a>
             </li>
             <li class="nav-item">

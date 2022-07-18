@@ -64,7 +64,7 @@ function About() {
         <div class="card mb-3" className="card-css">
           <div class="row g-0 h-100">
             <div class="col-md-4">
-              <img src={ungs} class="img-fluid" alt="..." />
+              <img src={ungs} class="img-fluid rounded-start" alt="..." />
             </div>
             <div
               class="col-md-8"
@@ -90,7 +90,7 @@ function About() {
         <div class="card mb-3" className="card-css">
           <div class="row g-0 h-100">
             <div class="col-md-4">
-              <img src={henry} class="img-fluid" alt="..." />
+              <img src={henry} class="img-fluid rounded-start" alt="..." />
             </div>
             <div class="col-md-8">
               <div
