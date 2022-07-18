@@ -61,77 +61,136 @@ function Proyects() {
                 style={{ height: 700, width: 1200, borderRadius: 20 }}
                 className="img-carrousel"
               />
-              <div class="carousel-caption d-md-block">
+              <div>
+                <div class="carousel-caption d-md-block">
+                  <a
+                    className="a-carrousel"
+                    href="https://github.com/tomasld13/TP-Programacion-JAVA"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <h5 className="text-carousel">
+                      Castlevania, Barbarianna Viking Edition Juego 2D Java -
+                      UNGS
+                    </h5>
+                  </a>
+                  <p className="text-carousel">
+                    Puramente en lenguaje Java, el objetivo era reforzar el
+                    conocimiento de la programación orientada a objetos.
+                    Realizado en conjunto con dos compañeros.
+                  </p>
+                </div>
                 <a
-                  className="a-carrousel"
+                  className="a-carrousel-externo"
                   href="https://github.com/tomasld13/TP-Programacion-JAVA"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <h5 className="text-carousel">
+                  <h5 className="text-carousel-externo">
                     Castlevania, Barbarianna Viking Edition Juego 2D Java - UNGS
                   </h5>
                 </a>
-                <p className="text-carousel">
+                <p className="text-carousel-externo">
                   Puramente en lenguaje Java, el objetivo era reforzar el
                   conocimiento de la programación orientada a objetos. Realizado
                   en conjunto con dos compañeros.
                 </p>
               </div>
             </div>
-            <div class="carousel-item">
-              <img
-                src={spa}
-                class="d-block"
-                alt="..."
-                style={{ height: 700, width: 1200, borderRadius: 20 }}
-                className="img-carrousel"
-              />
-              <div class="carousel-caption d-md-block">
-                <a
-                  className="a-carrousel"
-                  href="https://vg-henry.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <h5 className="text-carousel">
-                    Proyecto Individual "VideoGames Henry" - Bootcamp Henry
-                  </h5>
-                </a>
-                <p className="text-carousel">
-                  Simple Page Aplication realizada haciendo uso una API (Rawg).
-                  <br/>
-                  JS REACT REDUX NODE.JS SEQUELIZE POSTGRESQL
-                </p>
+            
+              <div class="carousel-item">
+                <img
+                  src={spa}
+                  class="d-block"
+                  alt="..."
+                  style={{ height: 700, width: 1200, borderRadius: 20 }}
+                  className="img-carrousel"
+                />
+                <div>
+                <div class="carousel-caption d-md-block">
+                  <a
+                    className="a-carrousel"
+                    href="https://vg-henry.vercel.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <h5 className="text-carousel">
+                      Proyecto Individual "VideoGames Henry" - Bootcamp Henry
+                    </h5>
+                  </a>
+                  <p className="text-carousel">
+                    Simple Page Aplication realizada haciendo uso una API
+                    (Rawg).
+                    <br />
+                    JS REACT REDUX NODE.JS SEQUELIZE POSTGRESQL
+                  </p>
+                </div>
               </div>
+              <a
+                className="a-carrousel-externo"
+                href="https://vg-henry.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <h5 className="text-carousel-externo">
+                  Proyecto Individual "VideoGames Henry" - Bootcamp Henry
+                </h5>
+              </a>
+              <p className="text-carousel-externo">
+                Simple Page Aplication realizada haciendo uso una API (Rawg).
+                <br />
+                JS REACT REDUX NODE.JS SEQUELIZE POSTGRESQL
+              </p>
             </div>
-            <div class="carousel-item">
-              <img
-                src={psicoApp}
-                class="d-block"
-                alt="..."
-                style={{ height: 700, width: 1200, borderRadius: 20 }}
-                className="img-carrousel"
-              />
-              <div class="carousel-caption d-md-block">
-                <a
-                  className="a-carrousel"
-                  href="https://psico-app.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <h5 className="text-carousel">
-                    Proyecto Grupal "PsicoApp" - Bootcamp Henry
-                  </h5>
-                </a>
-                <p className="text-carousel">
-                  Realizado en conjunto con 5 compañeros este proyecto es una
-                  aplicación web con el objetivo de poder conectar a pacientes
-                  con profesionales psicologos.
-                  <br/>
-                  JS REACT REDUX CHACKRA TAILWIND FIREBASE NODE.JS SEQUELIZE SOCKET.IO API_MERCADOPAGO POSTGRESQL
-                </p>
+            
+              <div class="carousel-item">
+                <img
+                  src={psicoApp}
+                  class="d-block"
+                  alt="..."
+                  style={{ height: 700, width: 1200, borderRadius: 20 }}
+                  className="img-carrousel"
+                />
+                <div>
+                <div class="carousel-caption d-md-block">
+                  <a
+                    className="a-carrousel"
+                    href="https://psico-app.vercel.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <h5 className="text-carousel">
+                      Proyecto Grupal "PsicoApp" - Bootcamp Henry
+                    </h5>
+                  </a>
+                  <p className="text-carousel">
+                    Realizado en conjunto con 5 compañeros este proyecto es una
+                    aplicación web con el objetivo de poder conectar a pacientes
+                    con profesionales psicologos.
+                    <br />
+                    JS REACT REDUX CHACKRA TAILWIND FIREBASE NODE.JS SEQUELIZE
+                    SOCKET.IO API_MERCADOPAGO POSTGRESQL
+                  </p>
+                </div>
               </div>
+              <a
+                className="a-carrousel-externo"
+                href="https://psico-app.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <h5 className="text-carousel-externo">
+                  Proyecto Grupal "PsicoApp" - Bootcamp Henry
+                </h5>
+              </a>
+              <p className="text-carousel-externo">
+                Realizado en equipo, este proyecto es una
+                aplicación web con el objetivo de poder conectar a pacientes con
+                profesionales psicologos.
+                <br />
+                JS REACT REDUX CHACKRA TAILWIND FIREBASE NODE.JS SEQUELIZE
+                SOCKET.IO API_MERCADOPAGO POSTGRESQL
+              </p>
             </div>
           </div>
           <button

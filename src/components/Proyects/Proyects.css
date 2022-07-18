@@ -3,6 +3,12 @@
     color: white
 }
 
+.a-carrousel-externo{
+    text-decoration: none;
+    color: white;
+    display: none;
+}
+
 #proyectos{
     margin-bottom: 50px;
 }
@@ -24,6 +30,15 @@
     word-wrap: break-word;
 }
 
+.text-carousel-externo{
+    background-color: rgba(44, 85, 71, 0.8);
+    border-radius:20px;
+    padding: 3px;
+    word-wrap: break-word;
+    display: none;
+    color:white;
+}
+
 @media (max-width: 1200px){
     .img-carrousel{
         height: 60vh !important;
@@ -32,5 +47,17 @@
     #carouselExampleCaptions{
         height: 60vh !important;
         width: 100vw !important;
+    }
+    .text-carousel{
+        display: none;
+    }
+    .text-carousel-externo{
+        display: block;
+    }
+    .a-carrousel{
+        display: none;
+    }
+    .a-carrousel-externo{
+        display: block;
     }
 }
