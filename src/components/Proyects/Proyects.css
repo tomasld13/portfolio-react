@@ -43,7 +43,7 @@
     font-weight: bold;
 }
 
-@media (max-width: 1200px){
+@media (max-width: 1400px){
     .img-carrousel{
         height: 60vh !important;
         width: 100vw !important;

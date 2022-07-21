@@ -13,6 +13,10 @@
     padding: 50px 50px 0px 50px;
 }
 
+#contact p{
+  margin-top: 100px;
+}
+
 .contact-container h1 {
     margin: 50px auto 0px auto;
     font-size: 2.5em;
@@ -20,7 +24,6 @@
     font-weight: bold;
     margin-top: 0;
     text-decoration: underline 5px #2c5547;
-    margin-top: 20px;
     margin-bottom: 20px;
 }
 

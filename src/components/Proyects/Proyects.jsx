@@ -28,7 +28,7 @@ function Proyects() {
           id="carouselExampleCaptions"
           class="carousel slide"
           data-bs-ride="false"
-          style={{ width: 1200, height: 700 }}
+          style={{ height: 800, width: 1400 }}
         >
           <div class="carousel-indicators">
             <button
@@ -58,7 +58,7 @@ function Proyects() {
                 src={viking}
                 class="d-block"
                 alt="..."
-                style={{ height: 700, width: 1200}}
+                style={{ height: 800, width: 1400}}
                 className="img-carrousel"
               />
               <div>
@@ -103,7 +103,7 @@ function Proyects() {
                   src={spa}
                   class="d-block"
                   alt="..."
-                  style={{ height: 700, width: 1200}}
+                  style={{ height: 800, width: 1400}}
                   className="img-carrousel"
                 />
                 <div>

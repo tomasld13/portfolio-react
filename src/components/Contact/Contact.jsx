@@ -27,9 +27,10 @@ function Contact() {
     }
   }
   return (
-    <div className='div-contact' id="contacto">
+    <div className='div-contact'>
     <div id="contact" className="container contact-container">
-      <h1>Contacto</h1>
+      <p></p>
+      <h1 id="contacto">Contacto</h1>
       <div className="contact-links">
         <a
           href="https://www.linkedin.com/in/ptomasledesma/"

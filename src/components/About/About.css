@@ -66,12 +66,29 @@
 .div-about h5{
     padding: 10px;
     font-size: 20px;
+    color: aliceblue;
     font-weight: bold;
 }
 
 .div-about p{
-    padding: 10px;
     font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: left;
+}
+
+#ungs, #henry{
+    min-width: 50%;
+    display: flex;
+    justify-content: center !important;
+    text-align: center;
+}
+
+#ungs img, #henry img{
+    max-height: 400px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media (max-width: 1200px){
@@ -80,9 +97,12 @@
     }
 }
 
-@media (max-width: 1306px){
+@media (max-width: 1000px){
     .cards-css{
         flex-direction: column;
+    }
+    #ungs, #henry{
+        width: 100% !important;
     }
 
 }
