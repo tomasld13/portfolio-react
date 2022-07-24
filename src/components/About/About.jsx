@@ -30,6 +30,7 @@ function About() {
         style={{ backgroundColor: "transparent" }}
       >
         <div
+          id="p-aboutMe"
           class="card-body"
           style={{
             color: "white",

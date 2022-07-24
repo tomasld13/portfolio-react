@@ -15,6 +15,10 @@
     margin-left: 10%;
 }
 
+#p-aboutMe{
+    white-space: initial;
+}
+
 .cards-css{
     display: flex;
     flex-direction: row;
@@ -99,10 +103,13 @@
 
 @media (max-width: 1000px){
     .cards-css{
-        flex-direction: column;
+        flex-direction: column; 
     }
     #ungs, #henry{
         width: 100% !important;
+    }
+    #p-aboutMe, #ungs p, #henry p{
+        font-size: 15px !important;
     }
 
 }
