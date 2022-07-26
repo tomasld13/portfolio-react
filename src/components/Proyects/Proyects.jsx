@@ -148,7 +148,7 @@ function Proyects() {
                   src={psicoApp}
                   class="d-block"
                   alt="..."
-                  style={{ height: 700, width: 1200}}
+                  style={{ height: 800, width: 1400}}
                   className="img-carrousel"
                 />
                 <div>
