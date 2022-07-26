@@ -73,18 +73,20 @@ function About() {
         >
           <img src={ungs} class="card-img-top" alt="..." />
           <div class="card-body">
-            <h5 class="card-title">Universidad General Sarmiento</h5>
+            <a
+              href="https://www.ungs.edu.ar/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="card-link"
+            >
+              <h5 class="card-title">Universidad General Sarmiento</h5>
+            </a>
             <p class="card-text">
               Soy estudiante avanzado de la Tecnicatura Universitaria en
               Informática y simultaneamente curso la Licenciatura en Sistemas.
               En estas carreras aprendí a programar en languajes como Python y
               Java, orientado a objetos.
             </p>
-          </div>
-          <div class="card-body">
-            <a href="https://www.ungs.edu.ar/" class="card-link">
-              UNGS
-            </a>
           </div>
         </div>
         <div
@@ -94,17 +96,19 @@ function About() {
         >
           <img src={henry} class="card-img-top" alt="..." />
           <div class="card-body">
-            <h5 class="card-title">Henry</h5>
+            <a
+              href="https://www.soyhenry.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="card-link"
+            >
+              <h5 class="card-title">Henry</h5>
+            </a>
             <p class="card-text">
               Henry es una academia digital la cual brinda distintos bootcamps.
               En este caso realicé el bootcamp de Desarrollo Full Stack, en el
               que aprendí tanto el Frontend como el Backend.
             </p>
-          </div>
-          <div class="card-body">
-            <a href="https://www.soyhenry.com/" class="card-link">
-              Henry
-            </a>
           </div>
         </div>
       </div>
