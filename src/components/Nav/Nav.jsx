@@ -5,7 +5,7 @@ function Nav() {
     <nav
       class="navbar navbar-dark"
       id="nav"
-      style={{ backgroundColor: "#212121" }}
+      style={{ backgroundColor: "#212121", borderBottom:"5px solid #2c5547", borderColor: "#2c5547" }}
       onClick={(e) => console.log(e.target)}
     >
       <div class="container-fluid">
