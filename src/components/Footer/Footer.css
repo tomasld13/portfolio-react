@@ -1,0 +1,19 @@
+body{
+    position: relative;
+    min-height: 100vh;
+}
+
+.footer_div{
+    margin: 0;
+    padding: 0;
+    margin-top: 100px;
+    bottom: 0 !important;
+    display: flex;
+    justify-content: center;
+}
+
+.footer_div p{
+    margin: 0;
+    padding: 0;
+    color: #2c5547;
+}

@@ -5,6 +5,7 @@ import Contact from "./components/Contact/Contact"
 import Proyects from "./components/Proyects/Proyects"
 import Technologies from "./components/Technologies/Technologies.jsx"
 import Nav from './components/Nav/Nav';
+import Footer from './components/Footer/Footer';
 function App() {
   return (
     <div>
@@ -14,6 +15,7 @@ function App() {
       <Technologies/>
       <Proyects/>
       <Contact/>
+      <Footer/>
     </div>
   );
 }
