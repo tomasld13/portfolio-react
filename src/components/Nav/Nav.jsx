@@ -93,7 +93,7 @@ function Nav() {
               <a
                 class="nav-link"
                 aria-current="page"
-                href="https://docs.google.com/document/d/1PucSx5IpRroCn7kQrSElutPweylEA8yFapAgCo6rq0I/edit?usp=sharing"
+                href="https://docs.google.com/document/d/12bMH2j4alNBRt2Pkzvz8hNKUMmDqn4f8NKNpHsPZi80/edit?usp=sharing"
                 target="_blank" 
                 rel='noopener noreferrer'
                 style={{ fontWeight: "bold" }}
