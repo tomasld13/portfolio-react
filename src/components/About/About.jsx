@@ -18,8 +18,7 @@ function About() {
           class="card-body"
           style={{
             color: "white",
-            fontWeight: "bold",
-            fontSize: 20,
+            fontSize: 25,
             "text-align": "left",
           }}
         >
@@ -48,13 +47,13 @@ function About() {
           rel="noopener noreferrer"
         >
           <button
+            id="cv"
             type="button"
             class="btn btn-success"
             style={{
               backgroundColor: "#2c5547",
               border: "none",
-              fontWeight: "bold",
-              fontSize: 20,
+              fontSize: 25,
               "text-align": "left",
               marginTop: "5%",
             }}

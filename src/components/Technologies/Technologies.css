@@ -10,6 +10,10 @@
     align-items: center;
 }
 
+.div-tech div:hover{
+    background-color: rgba(0, 0, 0, 0.322) !important;
+}
+
 #conocimientos{
     margin-bottom: 30px;
 }

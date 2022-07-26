@@ -21,6 +21,19 @@
     
 }
 
+#cv{
+    padding: 17px 35px;
+    font-size: 18px;
+    margin-top: 50px;
+    border-radius: 50px;
+    width: 50%;
+}
+
+#cv:hover{
+    cursor: pointer !important;
+    background-color: rgba(44, 85, 71, 0.5) !important;
+}
+
 .cards-css{
     display: flex;
     flex-direction: row;
@@ -82,7 +95,6 @@
 .div-about p{
     font-size: 20px;
     color: aliceblue;
-    font-weight: bold;
     text-align: left;
 }
 
