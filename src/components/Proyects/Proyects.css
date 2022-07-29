@@ -26,11 +26,18 @@
 
 
 .text-carousel{
-    background-color: rgba(0, 0, 0, 0.322);
+    background-color: rgba(0, 0, 0, 0.600);
     border-radius:20px;
     padding: 3px;
     word-wrap: break-word;
     font-weight: bold;
+}
+
+.carousel-item svg{
+    background-color: rgba(0, 0, 0, 0.600);
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
 }
 
 .text-carousel-externo{
@@ -41,6 +48,25 @@
     display: none;
     color:white;
     font-weight: bold;
+}
+
+.svg-carousel-externo{
+    display: none;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.322);
+}
+
+.svg-carousel-externo svg{
+    background-color: rgba(0, 0, 0, 0.322);
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    color: white;
+}
+
+.svg-carousel-externo svg:hover{
+    background-color: rgba(44, 85, 71, 0.5);
 }
 
 @media (max-width: 1400px){
@@ -57,6 +83,9 @@
     }
     .text-carousel-externo{
         display: block;
+    }
+    .svg-carousel-externo{
+        display: flex;
     }
     .a-carrousel{
         display: none;

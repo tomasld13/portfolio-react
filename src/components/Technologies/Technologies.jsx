@@ -20,6 +20,7 @@ function Technologies() {
       <div className="div-tech">
       <div
           class="card mb-3"
+          id="js"
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -33,6 +34,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="py"
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -46,6 +48,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="java"
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -59,6 +62,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="html" 
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -72,6 +76,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="css" 
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -85,6 +90,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="react" 
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -98,6 +104,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="redux" 
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -111,6 +118,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="node" 
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -124,6 +132,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="express" 
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -137,6 +146,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="sequelize" 
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -150,6 +160,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="postgresql" 
           style={{
             backgroundColor: "transparent",
             border:"none",
@@ -163,6 +174,7 @@ function Technologies() {
         </div>
         <div
           class="card mb-3"
+          id="mysql" 
           style={{
             backgroundColor: "transparent",
             border:"none",

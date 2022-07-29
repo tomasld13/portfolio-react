@@ -10,8 +10,64 @@
     align-items: center;
 }
 
-.div-tech div:hover{
-    background-color: rgba(0, 0, 0, 0.322) !important;
+#js:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #ead41c;
+}
+
+#py:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #346d9d;
+}
+
+#java:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #df2628;
+}
+
+#html:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #d84924;
+}
+
+#css:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #006ab1;
+}
+
+#react:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #5ccfee;
+}
+
+#redux:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #7046b2;
+}
+
+#node:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #83ba00;
+}
+
+#express:hover{
+    cursor: pointer;
+    text-decoration: underline 5px white;
+}
+
+#sequelize:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #4ea7db;
+}
+
+#postgresql:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #2e5c8b;
+}
+
+#mysql:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #005c83;
 }
 
 #conocimientos{
