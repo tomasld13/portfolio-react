@@ -207,7 +207,7 @@ function Proyects() {
                   </a>
                   <a
                     className="a-carrousel"
-                    href="https://dms.licdn.com/playlist/C4D05AQFIn1DwZyf2OQ/mp4-720p-30fp-crf28/0/1658765765076?e=1659740400&v=beta&t=s8bP3l3UYbGBfup6veYbwYoLOsKVWdvRoDcQvfrFW_w"
+                    href="https://www.youtube.com/watch?v=XdjU3AbXr80"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
