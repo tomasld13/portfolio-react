@@ -12,13 +12,16 @@ import { SiExpress } from "react-icons/si";
 import { SiSequelize } from "react-icons/si";
 import { SiPostgresql } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
+import {TbCSharp} from "react-icons/tb"
+import {SiMicrosoftsqlserver} from "react-icons/si"
+
 function Technologies() {
   return (
     <div style={{ textAlign: "center" }}>
       <p id="conocimientos">.</p>
       <h2 id="conocimientos_title">Conocimientos</h2>
       <div className="div-tech">
-      <div
+        <div
           class="card mb-3"
           id="js"
           style={{
@@ -31,6 +34,20 @@ function Technologies() {
         >
           <SiJavascript style={{ color: "#ead41c", fontSize: 100 }} />
           <h5 style={{ color: "white" }}>JavaScript</h5>
+        </div>
+        <div
+          class="card mb-3"
+          id="cSharp"
+          style={{
+            backgroundColor: "transparent",
+            border:"none",
+            textAlign: "center",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          <TbCSharp style={{ color: "#964d91", fontSize: 100 }} />
+          <h5 style={{ color: "white" }}>C#</h5>
         </div>
         <div
           class="card mb-3"
@@ -157,6 +174,20 @@ function Technologies() {
         >
           <SiSequelize style={{ color: "#4ea7db", fontSize: 100 }} />
           <h5 style={{ color: "white" }}>Sequelize</h5>
+        </div>
+        <div
+          class="card mb-3"
+          id="mssql"
+          style={{
+            backgroundColor: "transparent",
+            border:"none",
+            textAlign: "center",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          <SiMicrosoftsqlserver style={{ color: "#a91d22", fontSize: 100 }} />
+          <h5 style={{ color: "white" }}>MSQL Server</h5>
         </div>
         <div
           class="card mb-3"

@@ -56,7 +56,7 @@ function Proyects() {
             ></button>
           </div>
           <div class="carousel-inner">
-            <div class="carousel-item active">
+            <div class="carousel-item">
               <img
                 src={viking}
                 class="d-block"
@@ -168,7 +168,7 @@ function Proyects() {
                 </a>
               </div>
             </div>
-            <div class="carousel-item">
+            <div class="carousel-item active">
               <img
                 src={psicoApp}
                 class="d-block"

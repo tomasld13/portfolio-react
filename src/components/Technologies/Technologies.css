@@ -15,6 +15,11 @@
     text-decoration: underline 5px #ead41c;
 }
 
+#cSharp:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #964d91;
+}
+
 #py:hover{
     cursor: pointer;
     text-decoration: underline 5px #346d9d;
@@ -58,6 +63,11 @@
 #sequelize:hover{
     cursor: pointer;
     text-decoration: underline 5px #4ea7db;
+}
+
+#mssql:hover{
+    cursor: pointer;
+    text-decoration: underline 5px #a91d22;
 }
 
 #postgresql:hover{

@@ -18,28 +18,18 @@ function About() {
           class="card-body"
           style={{
             color: "white",
-            fontSize: 25,
+            fontSize: 30,
             "text-align": "left",
           }}
         >
-          Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la
-          programación y me quedé fascinado con esta y por esto comencé cursando
-          la Tecnicatura Universitaria en Informática, aprendiendo en esta
-          Python y Java. Al mismo tiempo fui realizando algunos cursos en
-          internet, hasta que me encontré con Henry, el cual ofrecía el
-          aprendizaje de un stack solido de tecnologías para el desarrollo web,
-          de una manera intensiva, por lo que este iba a agilizar mi inserción
-          en el sector laboral.
+          👨‍💻Soy de Argentina, provincia de Buenos Aires, hace dos años conocí la programación
+          y me quedé fascinado con esta, por esto comencé cursando la Tecnicatura Universitaria en 
+          Informática, al mismo tiempo fui realizando algunos cursos en internet y también cursé el 
+          bootcamp de desarrollo web full stack de Henry. 
           <br />
-          Hoy en día, ya con el bootcamp finalizado y la carrera en proceso,
-          estoy en busca de mi primera experiencia laboral en el sector IT. Con
-          mucho entusiasmo, ganas de poner en práctica mis conocimientos, de
-          seguir aprendiendo y creciendo profesionalmente.
           <br />
-          Cuento con conocimientos Full Stack en el desarrollo web, me manejo
-          tanto en la parte del FrontEnd como del BackEnd, aunque tengo
-          preferencia en esta última área, me gusta mucho trabajar desde el lado
-          del servidor y las bases de datos.
+          🚀Hoy en día, me encuentro trabando como técnico en programación informatica y cursando la 
+          Tecnicatura Universitaria en Informática.
         </div>
         <a
           href="https://docs.google.com/document/d/12bMH2j4alNBRt2Pkzvz8hNKUMmDqn4f8NKNpHsPZi80/edit?usp=sharing"
