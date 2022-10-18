@@ -32,7 +32,7 @@ function About() {
           Tecnicatura Universitaria en Informática.
         </div>
         <a
-          href="https://docs.google.com/document/d/12bMH2j4alNBRt2Pkzvz8hNKUMmDqn4f8NKNpHsPZi80/edit?usp=sharing"
+          href="https://www.canva.com/design/DAFPWGQN3ek/DBk3o3FWJ-6Vl5YF2HsvKA/edit?utm_content=DAFPWGQN3ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
           target="_blank"
           rel="noopener noreferrer"
         >
