@@ -13,8 +13,8 @@ function Home() {
           poder saber más sobre mí y ver mis proyectos.
         </p>
       </div>
-      <div className="img">
-        <img src={me} alt="portrait_photo"></img>
+      <div style={{display:"flex", justifyContent: "center"}}>
+        <img src={me} alt="portrait_photo" className="picture"></img>
       </div>
     </div>
   );

@@ -9,12 +9,12 @@ import "./Proyects.css";
 function Proyects() {
   return (
     <div
+      id="d-proyects"
       style={{
         display: "flex",
         justifyContent: "center",
         flexDirection: "column",
         textAlign: "center",
-        marginBottom: "200px",
       }}
     >
       <p id="proyectos"></p>

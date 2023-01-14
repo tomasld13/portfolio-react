@@ -28,11 +28,11 @@ function About() {
           bootcamp de desarrollo web full stack de Henry. 
           <br />
           <br />
-          🚀Hoy en día, me encuentro trabando como técnico en programación informatica y cursando la 
-          Tecnicatura Universitaria en Informática.
+          🚀Hoy en día, me encuentro trabajando como Técnico en Programación Informatica y cursando la 
+          Técnicatura Universitaria en Informática.
         </div>
         <a
-          href="https://www.canva.com/design/DAFPWGQN3ek/DBk3o3FWJ-6Vl5YF2HsvKA/edit?utm_content=DAFPWGQN3ek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+          href="https://www.canva.com/design/DAFPWL4DmDM/jGO2lC92AWOGuahY6vo91g/view?utm_content=DAFPWL4DmDM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -73,8 +73,8 @@ function About() {
             <p class="card-text">
               Soy estudiante avanzado de la Tecnicatura Universitaria en
               Informática y simultaneamente curso la Licenciatura en Sistemas.
-              En estas carreras aprendí a programar en languajes como Python y
-              Java, orientado a objetos.
+              En estas carreras aprendí los fundamentos la de programación en Python; 
+              POO, estructuras de datos, recursión, complejidad,diagramas UML y testing, en JAVA.
             </p>
           </div>
         </div>

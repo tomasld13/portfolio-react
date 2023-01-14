@@ -71,8 +71,11 @@
 
 @media (max-width: 1400px){
     .img-carrousel{
-        height: 60vh !important;
+        height: 30vh !important;
         width: 100vw !important;
+    }
+    #d-proyects {
+        margin-bottom: 5vh;
     }
     #carouselExampleCaptions{
         height: 60vh !important;

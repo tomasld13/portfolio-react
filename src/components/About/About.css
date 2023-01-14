@@ -11,8 +11,8 @@
 }
 
 .sobreMi{
-    width: 60%;
-    margin-left: 20%;
+    width: 80%;
+    margin-left: 10%;
 }
 
 #p-aboutMe{
@@ -97,6 +97,21 @@
     text-align: left;
 }
 
+.card{
+    border: 6px solid transparent !important;
+    padding: 1vh;
+}
+
+.card:hover {
+    border: 6px solid #2c5547 !important;
+    cursor: pointer;
+}
+
+.card-body {
+    width: 60%;
+    margin-left: 20%;
+}
+
 #ungs, #henry{
     min-width: 50%;
     display: flex;
@@ -118,18 +133,20 @@
 }
 
 @media (max-width: 1000px){
-    .cards-css{
-        flex-direction: column; 
-    }
     #ungs, #henry{
         width: 100% !important;
     }
     #p-aboutMe, #ungs p, #henry p{
-        font-size: 15px !important;
+        font-size: 12px !important;
     }
     #cv{
-        font-size: 15px !important;
+        font-size: 12px !important;
         width: 80%;
+    }
+    .card-body {
+        width: 100%;
+        margin-left: 5%;
+        padding: 0px;
     }
 
 }

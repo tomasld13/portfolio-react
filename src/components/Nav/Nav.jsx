@@ -93,7 +93,7 @@ function Nav() {
               <a
                 class="nav-link"
                 aria-current="page"
-                href="https://docs.google.com/document/d/12bMH2j4alNBRt2Pkzvz8hNKUMmDqn4f8NKNpHsPZi80/edit?usp=sharing"
+                href="https://www.canva.com/design/DAFPWL4DmDM/jGO2lC92AWOGuahY6vo91g/view?utm_content=DAFPWL4DmDM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                 target="_blank" 
                 rel='noopener noreferrer'
                 style={{ fontWeight: "bold" }}
