@@ -1,0 +1,45 @@
+.titulo{
+    font-size: 2.5em;
+    color: #646464;
+    font-weight: bold;
+    margin-top: 0;
+    text-decoration: underline 5px #2c5547;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#img-prosys{
+    max-height: 400px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div-jobs h5{
+    padding: 10px;
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.div-jobs p{
+    font-size: 20px;
+    color: aliceblue;
+    text-align: left;
+}
+
+.card{
+    border: 6px solid transparent !important;
+    padding: 1vh;
+}
+
+.card:hover {
+    border: 6px solid #2c5547 !important;
+    cursor: pointer;
+}
+
+.card-body {
+    width: 60%;
+    margin-left: 20%;
+    color: white;
+}

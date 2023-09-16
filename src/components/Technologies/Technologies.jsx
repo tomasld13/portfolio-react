@@ -1,7 +1,7 @@
 import React from "react";
 import "./Technologies.css";
 import { SiJavascript } from "react-icons/si";
-import { SiJava } from "react-icons/si";
+import { DiJava } from "react-icons/di";
 import { SiPython } from "react-icons/si";
 import { SiHtml5 } from "react-icons/si";
 import { SiCss3 } from "react-icons/si";
@@ -12,13 +12,13 @@ import { SiExpress } from "react-icons/si";
 import { SiSequelize } from "react-icons/si";
 import { SiPostgresql } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
-import { TbCSharp } from "react-icons/tb";
+import { TbBrandCSharp } from "react-icons/tb";
 import { SiMicrosoftsqlserver } from "react-icons/si";
 
 function Technologies() {
   return (
     <div style={{ textAlign: "center" }}>
-      <p id="conocimientos">.</p>
+      <p id="conocimientos"></p>
       <h2 id="conocimientos_title">Conocimientos</h2>
       <div className="div-tech">
         <div>
@@ -47,7 +47,7 @@ function Technologies() {
               justifyContent: "center",
             }}
           >
-            <TbCSharp style={{ color: "#964d91", fontSize: 100 }} />
+            <TbBrandCSharp style={{ color: "#964d91", fontSize: 100 }} />
             <h5 style={{ color: "white" }}>C#</h5>
           </div>
         </div>
@@ -77,7 +77,7 @@ function Technologies() {
               justifyContent: "center",
             }}
           >
-            <SiJava style={{ color: "#df2628", fontSize: 100 }} />
+            <DiJava style={{ color: "#df2628", fontSize: 100 }} />
             <h5 style={{ color: "white" }}>Java</h5>
           </div>
         </div>

@@ -23,7 +23,6 @@ function Proyects() {
         style={{
           display: "flex",
           justifyContent: "center",
-          height: 600,
           borderRadius: 10,
         }}
       >
