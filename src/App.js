@@ -4,7 +4,7 @@ import FullPageScroll from './FullPageScroll';
 function App() {
   return (
     <div>
-      <FullPageScroll/>
+      <FullPageScroll id="full-page-scroll"/>
     </div>
   );
 }

@@ -11,7 +11,6 @@ function Jobs() {
             <div className="cards-css">
             <div
               class="card border-secondary mb-3"
-              id="ungs"
               style={{ backgroundColor: "transparent", border: "none" }}
             >
               <img src={prosys} style={{backgroundColor: "white"}} id="img-prosys" class="card-img-top" alt="..." />

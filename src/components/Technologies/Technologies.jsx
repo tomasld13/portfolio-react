@@ -201,7 +201,7 @@ function Technologies() {
             <h5 style={{ color: "white" }}>MSQL Server</h5>
           </div>
         </div>
-        <div>
+        <div id="last-tech">
           <div
             class="card mb-3"
             id="postgresql"

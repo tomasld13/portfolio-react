@@ -6,7 +6,6 @@ import henry from "../props/henryR.jpg";
 function Studies() {
   return (
     <div className="div-about">
-      <p id="estudios"></p>
       <h2>Estudios</h2>
       <div className="cards-css">
         <div
@@ -45,7 +44,7 @@ function Studies() {
               rel="noopener noreferrer"
               class="card-link"
             >
-              <h5 class="card-title">Henry</h5>
+              <h5 class="card-title">Henry <br className="space-henry"/> <br className="space-henry"/> <br className="space-henry"/></h5>
             </a>
             <p class="card-text">
               Henry es una academia digital la cual brinda distintos bootcamps.

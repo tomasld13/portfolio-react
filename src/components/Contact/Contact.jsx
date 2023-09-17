@@ -75,7 +75,7 @@ function Contact() {
                 </div>
                 <div id="div_textarea">
                     <label>Mensaje:</label>
-                    <textarea name="Mensaje" rows="5" cols="50" required></textarea>
+                    <textarea name="Mensaje" rows="3" cols="50" required></textarea>
                 </div>
                 <div className="send">
                     <button type="submit" value="Enviar" id="send-input">Enviar</button>
